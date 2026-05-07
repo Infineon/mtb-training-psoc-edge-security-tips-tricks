@@ -3,7 +3,7 @@
 This training is part of the PSOC™ Edge security series and offers useful tips and tricks for using common
 secure features with PSOC™ Edge devices. 
 It covers topics such as accessing peripherals from the secure CM33 environment,
-booting from OSPI flash, using the alternate serial interface, along with other practical security‑related guidance, 
+booting from OSPI flash, using the alternate serial interface, along with other practical security-related guidance, 
 and links to code examples and resources.
 
 ## Device family
@@ -21,7 +21,7 @@ and links to code examples and resources.
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
   - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
-- For an introduction to PSOC™ Edge Security, visit https://github.com/Infineon/mtb-training-psoc-edge-security-intro
+- For an introduction to PSOC™ Edge Security, visit the [PSOC™ Edge Security Introduction training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
 - [ModusToolbox™ with Eclipse IDE](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
@@ -62,4 +62,5 @@ and links to code examples and resources.
 ## History 
 | Date       | Version | Description             |
 |------------|---------|-------------------------|
+| 05/07/2026 | *A      | Update speaker notes. <br>Update formatting of some images.     |
 | 02/27/2026 | **      | First public release    |
