@@ -50,7 +50,7 @@ and links to code examples and resources.
 - Get access to security-related documentation and code examples
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/91cac909-2044-4da1-a791-7b175d1c6c1b)
 - [Presentation](./Presentation/PSE_tips_and_tricks_for_security.pdf)
 
 ## References and resources
